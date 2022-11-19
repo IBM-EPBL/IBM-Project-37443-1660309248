@@ -4,7 +4,7 @@ Team Member 1 - Gokulraj P
 Team Member 2 - Shreeram D U  
 Team Member 3 - Pranav Ram K S  
 
-Title : Personal Expense Tracker Application
+Title : Personal Expense Tracker Application  
 Category: Cloud App Development
 
 Skills Required:
